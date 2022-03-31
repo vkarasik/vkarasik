@@ -8,11 +8,11 @@ I’m open to objective criticism and able to do a lot of boring work. Because I
 
 ## ![Experience](./assets/experience.svg)
 
-As a web developer: developing websites and applications using HTML, CSS, JS. Also, I have experience in building some projects using PHP & MySQL. Working with different APIs, including implementing one by myself using Python & Flask.
+**As a web developer**: developing websites and applications using HTML, CSS, JS. Also, I have experience in building some projects using PHP & MySQL. Working with different APIs, including implementing one by myself using Python & Flask.
 
-As a project manager: writing comprehensive technical tasks for developers. Creating prototypes in Figma. Creating by my own couple of online shops using WordPress and its themes and plugins.
+**As a project manager**: writing comprehensive technical tasks for developers. Creating prototypes in Figma. Creating by my own couple of online shops using WordPress and its themes and plugins.
 
-As a content manager: supporting a bunch of websites based on CMS Bitrix and WordPress, creating graphics, such as banners etc.
+**As a content manager**: supporting a bunch of websites based on CMS Bitrix and WordPress, creating graphics, such as banners etc.
 
 ## ![General Skills](./assets/general_skills.svg)
 
