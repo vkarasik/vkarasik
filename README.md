@@ -18,21 +18,21 @@ I’m open to objective criticism and able to do a lot of boring work. Because I
 
 On this time my main interest in web development is front-end side. So mostly I use HTML/CSS/JS. I have some experience with Bootstrap and jQuery. Currently I’m learning React JS.
 
-![html](./assets/html.svg)
-![javascript](./assets/javascript.svg)
-![sass](./assets/sass.svg)
-![less](./assets/less.svg)
-![gulp](./assets/gulp.svg)
-![webpack](./assets/webpack.svg)
-![jquery](./assets/jquery.svg)
-![bootstrap](./assets/bootstrap.svg)
-![git](./assets/git.svg)
+[![html](./assets/html.svg)](#)
+[![javascript](./assets/javascript.svg)](#)
+[![sass](./assets/sass.svg)](#)
+[![less](./assets/less.svg)](#)
+[![gulp](./assets/gulp.svg)](#)
+[![webpack](./assets/webpack.svg)](#)
+[![jquery](./assets/jquery.svg)](#)
+[![bootstrap](./assets/bootstrap.svg)](#)
+[![git](./assets/git.svg)](#)
 
 I’m also intrested in backend tecnologis, so I have basic knowleges in PHP, MySQL, Python. Additionaly I want learn base of Node.js and it’s my next goal in self education.
 
-![php](./assets/php.svg)
-![mysql](./assets/mysql.svg)
-![python](./assets/python.svg)
+[![php](./assets/php.svg)](#)
+[![mysql](./assets/mysql.svg)](#)
+[![python](./assets/python.svg)](#)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkarasik&layout=compact)](https://github.com/vkarasik/github-readme-stats)
 
@@ -40,9 +40,9 @@ I’m also intrested in backend tecnologis, so I have basic knowleges in PHP, My
 
 I’m strong user of grafic tools such as Figma, Photoshop, Ilustrator. Worked a lot with CSM WordPress and Bitrix, CRM Bitrix24 as administrator and content manger.
 
-![figma](./assets/figma.svg)
-![photoshop](./assets/photoshop.svg)
-![illustrator](./assets/illustrator.svg)
-![postman](./assets/postman.svg)
-![wordpress](./assets/wordpress.svg)
-![bitrix](./assets/bitrix.svg)
+[![figma](./assets/figma.svg)](#)
+[![photoshop](./assets/photoshop.svg)](#)
+[![illustrator](./assets/illustrator.svg)](#)
+[![postman](./assets/postman.svg)](#)
+[![wordpress](./assets/wordpress.svg)](#)
+[![bitrix](./assets/bitrix.svg)](#)
