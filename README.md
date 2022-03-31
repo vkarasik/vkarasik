@@ -1,12 +1,12 @@
-![Hi there! My name’s Vadim!](./assets/hi_there.svg)
+[![Hi there! My name’s Vadim!](./assets/hi_there.svg)](#)
 
-## ![About Me](./assets/about_me.svg)
+## [![About Me](./assets/about_me.svg)](#)
 
 I'm a self-taught web developer. I’m not obsessed with certain technologies and use what really helps solve problems fast and simple instead of holy wars about the pros and cons of programming languages.
 
 I’m open to objective criticism and able to do a lot of boring work. Because I think that any excellent stuff is made of 20% of creativity and 80% doing boring things.
 
-## ![Experience](./assets/experience.svg)
+## [![Experience](./assets/experience.svg)](#-1)
 
 **As a web developer**: developing websites and applications using HTML, CSS, JS. Also, I have experience in building some projects using PHP & MySQL. Working with different APIs, including implementing one by myself using Python & Flask.
 
@@ -14,7 +14,7 @@ I’m open to objective criticism and able to do a lot of boring work. Because I
 
 **As a content manager**: supporting a bunch of websites based on CMS Bitrix and WordPress, creating graphics, such as banners etc.
 
-## ![General Skills](./assets/general_skills.svg)
+## [![General Skills](./assets/general_skills.svg)](#-2)
 
 On this time my main interest in web development is front-end side. So mostly I use HTML/CSS/JS. I have some experience with Bootstrap and jQuery. Currently I’m learning React JS.
 
@@ -36,7 +36,7 @@ I’m also intrested in backend tecnologis, so I have basic knowleges in PHP, My
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkarasik&layout=compact)](https://github.com/vkarasik/github-readme-stats)
 
-## ![Additional Skills and Tools](./assets/additional_skills_and_tools.svg)
+## [![Additional Skills and Tools](./assets/additional_skills_and_tools.svg)](#-3)
 
 I’m strong user of grafic tools such as Figma, Photoshop, Ilustrator. Worked a lot with CSM WordPress and Bitrix, CRM Bitrix24 as administrator and content manger.
 
