@@ -16,7 +16,7 @@ I’m open to objective criticism and able to do a lot of boring work. Because I
 
 ## [![General Skills](./assets/general_skills.svg)](#-2)
 
-On this time my main interest in web development is front-end side. So mostly I use HTML/CSS/JS. I have some experience with Bootstrap and jQuery. Currently I’m learning React JS.
+At this time my main interest in web development is front-end side. So mostly I use HTML/CSS/JS. I have some experience with Bootstrap and jQuery. Currently, I’m learning React JS.
 
 [![html](./assets/html.svg)](#)
 [![javascript](./assets/javascript.svg)](#)
@@ -28,7 +28,7 @@ On this time my main interest in web development is front-end side. So mostly I 
 [![bootstrap](./assets/bootstrap.svg)](#)
 [![git](./assets/git.svg)](#)
 
-I’m also intrested in backend tecnologis, so I have basic knowleges in PHP, MySQL, Python. Additionaly I want learn base of Node.js and it’s my next goal in self education.
+I’m also interested in backend technologies, so I have basic knowledge of PHP, MySQL, and Python. Additionally, I want to learn the base of Node.js and it’s my next goal in self-education.
 
 [![php](./assets/php.svg)](#)
 [![mysql](./assets/mysql.svg)](#)
@@ -38,7 +38,7 @@ I’m also intrested in backend tecnologis, so I have basic knowleges in PHP, My
 
 ## [![Additional Skills and Tools](./assets/additional_skills_and_tools.svg)](#-3)
 
-I’m strong user of grafic tools such as Figma, Photoshop, Ilustrator. Worked a lot with CSM WordPress and Bitrix, CRM Bitrix24 as administrator and content manger.
+I’m a strong user of graphic tools such as Figma, Photoshop, and Illustrator. Worked a lot with CSM WordPress and Bitrix, CRM Bitrix24 as administrator and content manager.
 
 [![figma](./assets/figma.svg)](#)
 [![photoshop](./assets/photoshop.svg)](#)
