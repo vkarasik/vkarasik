@@ -12,7 +12,7 @@ I'm a self-taught web developer, not obsessed with certain technologies and use 
 
 ## [![General Skills](./assets/general_skills.svg)](#-2)
 
-Currently, I use mostly PHP, Bitrix Framework, HTML/CSS/JS. Have experience of using Git in a team. I’m also interested in frameworks, especially Laravel and React, and it’s my next goal in self-education.
+Currently, I use mostly PHP, Bitrix Framework, HTML/CSS/JS. Have experience of using Git in a team. I’m also interested in frameworks, especially Laravel and React, Vue frameworks, and it’s my next goal in self-education.
 
 [![html](./assets/html.svg)](#)
 [![javascript](./assets/javascript.svg)](#)
@@ -25,6 +25,7 @@ Currently, I use mostly PHP, Bitrix Framework, HTML/CSS/JS. Have experience of u
 [![jquery](./assets/jquery.svg)](#)
 [![bootstrap](./assets/bootstrap.svg)](#)
 [![git](./assets/git.svg)](#)
+[![docker](./assets/docker.svg)](#)
 
 ## [![Additional Skills and Tools](./assets/additional_skills_and_tools.svg)](#-3)
 
